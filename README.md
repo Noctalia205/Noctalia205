@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctalia205" alt="noctalia205" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/noctalia205" target="blank"><img src="https://img.shields.io/twitter/follow/noctalia205?logo=twitter&style=for-the-badge" alt="noctalia205" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
